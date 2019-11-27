@@ -1,5 +1,4 @@
-#%%
-##ItemCF算法
+#%%##ItemCF算法
 import math
 def ItemSimilarity(train):
     C = dict()   ##同时购买的次数
